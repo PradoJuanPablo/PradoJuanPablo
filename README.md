@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan Pablo, an <a href="www.linkedin.com/in/juan-pablo-prado">IT Professional</a>☺</h1>
+<h1>Hi, I'm Juan Pablo, an <a href="www.linkedin.com/in/juan-pablo-prado-b7398a273">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
