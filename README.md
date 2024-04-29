@@ -10,7 +10,13 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/PradoJuanPablo/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PradoJuanPablo/azure-network-protocols)
 - <b>Networking</b>
-  - [Cisco Networking: Creating a Small Office Home Office/ SOHO ](https://github.com/PradoJuanPablo/networking)      
+  - [Cisco Networking: Creating a Small Office Home Office/ SOHO ](https://github.com/PradoJuanPablo/networking)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)   
+      
+
+
+
 <h2>🤳Connect with me:</h2>
 
 
