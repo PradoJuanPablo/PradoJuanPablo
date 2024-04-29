@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PradoJuanPablo/azure-network-protocols)
 - <b>Networking</b>
   - [Cisco Networking: Creating a Small Office Home Office/ SOHO ](https://github.com/PradoJuanPablo/networking)
-  - [CCNA Configurations Megalab by JeremysITLabs](https://github.com/PradoJuanPablo/ccna-megalab)
+  - [CCNA Configurations Megalab by JeremysITLabs *** Work in Progress ***](https://github.com/PradoJuanPablo/ccna-megalab)
       
 
 
